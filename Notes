@@ -1,1 +1,1 @@
-Notes
+Forward on joystick is -1. Best not to go above 1 and below -1 on motor controles because of that.
